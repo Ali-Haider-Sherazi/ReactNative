@@ -6,6 +6,7 @@ export default function App() {
   return (
 		<View style={styles.container}>
 			<Text>Open up App.js to start working on your app!</Text>
+      <Text>Add new just to checkOut the pull push Git</Text>
 			<ApiComponent />
 			<StatusBar style="auto" />
 		</View>
